@@ -8,9 +8,14 @@ npm install webrtc-garbage-collector
 ```
 
 ## Usage
-
+NPM:
 ```javascript
 import {webrtcgarbagecollector} from 'webrtc-garbage-collector'
+webrtcgarbagecollector()
+```
+CDN:
+```javascript
+import {webrtcgarbagecollector} from 'https://cdn.jsdelivr.net/npm/webrtc-garbage-collector@0.0.1/index.min.js'
 webrtcgarbagecollector()
 ```
 
