@@ -1,0 +1,29 @@
+{
+  "name": "webrtc-garbage-collector",
+  "version": "0.0.1",
+  "description": "webrtc garbage collector",
+  "main": "index.js",
+  "module": "index.js",
+  "exports": {
+    ".": {
+      "import": "index.js"
+    }
+  },  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuzulul/webrtc-garbage-collector.git"
+  },
+  "keywords": [
+    "webrtc",
+    "webrtc-garbage-collector"
+  ],
+  "author": "Nuzulul Zulkarnain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuzulul/webrtc-garbage-collector/issues"
+  },
+  "homepage": "https://github.com/nuzulul/webrtc-garbage-collector#readme"
+}
